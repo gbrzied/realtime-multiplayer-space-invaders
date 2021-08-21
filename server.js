@@ -20,7 +20,7 @@ let activeGameRooms = {};
 
 // instantiate to Ably
 const realtime = Ably.Realtime({
-  key: ABLY_API_KEY,
+  key: "w8V6Fg.tySuIg:CdYejAP7lHn7a_M8",
   echoMessages: false,
 });
 
